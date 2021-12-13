@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Tiago Silva 👋
 
-- <img height="14em" src="https://user-images.githubusercontent.com/51085904/145732783-9e2aedbd-18b9-4037-8e75-ce15645280fd.png"/> Analista e Desenvolvedor de Sistemas
+- <img height="14em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg"/> Analista e Desenvolvedor de Sistemas
 - 📖 Estudando Java, TypeScript, JavaScript.
 - 🚀 #NeverStopLearning
 
