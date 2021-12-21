@@ -1,6 +1,6 @@
 ## Hello! I'm Tiago Silva 👋
 
-- <img height="14em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg"/> Analista e Desenvolvedor de Sistemas
+- <img height="14em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg"/> Systems Analyst and Developer
 - 📖 Learning Java, TypeScript, JavaScript.
 - 🚀 #NeverStopLearning
 
