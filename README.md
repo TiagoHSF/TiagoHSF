@@ -1,7 +1,7 @@
-## Olá! Eu sou o Tiago Silva 👋
+## Hello! I'm Tiago Silva 👋
 
 - <img height="14em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg"/> Analista e Desenvolvedor de Sistemas
-- 📖 Estudando Java, TypeScript, JavaScript.
+- 📖 Learning Java, TypeScript, JavaScript.
 - 🚀 #NeverStopLearning
 
 <div>
